@@ -1,7 +1,7 @@
 # Arthur Mohan Ai Drafts
 
 Welcome to the Arthur Mohan Ai Drafts repository! 
-- **Download my Projects on **
+- **Download my Projects on https://drive.google.com/drive/folders/1tmvyJLm5uv89B2uByUZ4rOeMt9PPG-uD?usp=drive_link**
 
 ## Projects Overview
 
@@ -19,7 +19,7 @@ Welcome to the Arthur Mohan Ai Drafts repository!
 
 ## Dependencies
 
-All projects are designed to run within a unified environment. Please ensure you are using the following version of Python:
+All projects are designed to run within a unified environment. Please ensure you are using the following versions of Packages:
 
 ```bash
 Package                      Version
