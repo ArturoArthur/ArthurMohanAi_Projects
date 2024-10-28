@@ -1,4 +1,25 @@
-# ArthurMohanAi-s-drafts
-This repo included attempts of Arthur Mohan Ai. 
-Including: Minecraft_Metaverse_Robert_Project, Football_Motion_Analysis, Bar_head_goose_Counting, Optimal_population, Plasma_Speaker, Stock_Market_Analysis_v4.0, Pose_Assisted_Collaborative_Tracking, Multi-Body_Simulation, Resnet_Classification, and Arthur's past homeworks.
-All these projects run in a single environment (python==v3.8)
+# Arthur Mohan Ai Drafts
+
+Welcome to the Arthur Mohan Ai Drafts repository! 
+- **Download my Projects on **
+
+## Projects Overview
+
+- **Minecraft Metaverse Robert Project**
+- **Football Motion Analysis**
+- **Bar Head Goose Counting**
+- **Optimal Population**
+- **Plasma Speaker**
+- **Stock Market Analysis v4.0**
+- **Pose Assisted Collaborative Tracking**
+- **Multi-Body Simulation**
+- **ResNet Classification**
+- 
+- **Arthur's Past Homework**
+
+## Dependencies
+
+All projects are designed to run within a unified environment. Please ensure you are using the following version of Python:
+
+```bash
+python==3.8
