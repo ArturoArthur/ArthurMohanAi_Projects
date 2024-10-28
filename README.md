@@ -14,7 +14,7 @@ Welcome to the Arthur Mohan Ai Drafts repository!
 - **Pose Assisted Collaborative Tracking**
 - **Multi-Body Simulation**
 - **ResNet Classification**
-- 
+  
 - **Arthur's Past Homework**
 
 ## Dependencies
