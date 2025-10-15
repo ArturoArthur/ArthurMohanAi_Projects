@@ -5,13 +5,15 @@ Welcome to the Arthur Mohan Ai Projects/Drafts repository!
 
 ## Projects Overview
 
-- **Minecraft Metaverse Robert Project**
+- **Minecraft Metaverse Robot Controlling System**
+- **Random Music Generating**
 - **Football Motion Analysis**
-- **Bar Head Goose Counting**
-- **Optimal Population**
+- **Plareau Wild Bird Monitoring**
+- **Optimal Population Model**
 - **Plasma Speaker**
-- **Stock Market Analysis v4.0**
+- **Stock Trading v4.0**
 - **Pose Assisted Collaborative Tracking**
+- **Human Body Action Classification**
 - **Multi-Body Simulation**
 - **ResNet Classification**
   
